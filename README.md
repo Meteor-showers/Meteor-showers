@@ -161,8 +161,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Meteor-showers&row=1&margin-w=40)
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/hr.gif" />
+<img width="200%" src="./assets/images/ct.gif" />
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/it985/it985/assets/images/githubgif.gif" />
+<img width="36%" src="./assets/images/github.gif" />
