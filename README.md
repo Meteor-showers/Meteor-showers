@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">
-  <a href="https:///">
+  <a href="https://">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C+World!);%E5%AD%A6%E4%B9%A0%2C+%E6%B0%B8%E8%BF%9C%E4%B8%8D%E6%99%9A!;Meteor-showers;&center=true&size=27">
   </a>
 </h1>
