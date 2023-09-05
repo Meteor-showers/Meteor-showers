@@ -8,9 +8,9 @@
 <div align="center">
     <a href="https://blog.xkzs.icu/"><img src="https://img.shields.io/badge/Blog-博客ICU-blue" /></a>&emsp;
     <a href="https://blog.xkzs.cc/"><img src="https://img.shields.io/badge/Blog-博客CC-blue" /></a>&emsp;
-    <a href="https://blog.xkzs.icu/"><img src="https://img.shields.io/badge/Nav-导航-3655FF" /></a>&emsp;
-    <a href="https://blog.xkzs.icu/"><img src="https://img.shields.io/badge/Tools-工具箱-ADD5EC" /></a>&emsp;
-    <a href="https://blog.xkzs.icu/"><img src="https://img.shields.io/badge/Lab-实验室-ADD5EC" /></a>&emsp;
+    <a href="https://nav.xkzs.icu/"><img src="https://img.shields.io/badge/Nav-导航-3655FF" /></a>&emsp;
+    <a href="https://tools.xkzs.icu/"><img src="https://img.shields.io/badge/Tools-工具箱-ADD5EC" /></a>&emsp;
+    <a href="https://lab.xkzs.icu/"><img src="https://img.shields.io/badge/Lab-实验室-ADD5EC" /></a>&emsp;
     <!-- <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
     <!-- <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
     <!-- <a href="/"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
