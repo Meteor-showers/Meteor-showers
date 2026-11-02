@@ -145,21 +145,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Meteor-showers/Meteor-showers/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <img alt="Meteor-showers's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Meteor-showers&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
-    <img alt="Meteor-showers's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meteor-showers&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
-  <br/>
-</details>
-
-
-## GitHub Profile Trophy 🏆
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Meteor-showers&row=1&margin-w=40)
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="./assets/images/ct.gif" />
 <!-- GitHub metrics 信息指标 -->
